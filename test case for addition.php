@@ -1,6 +1,6 @@
 <?php 
 
-require 'math.php';
+require 'add.php';
 
 use PHPUnit\Framework\TestCase;
 
